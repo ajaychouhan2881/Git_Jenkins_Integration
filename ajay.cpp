@@ -3,11 +3,11 @@
 
 __stdcall void hello(const char *s)
 {
-        printf("Hi again %s\n", s);
+        printf("Vedanti again %s\n", s);
 }
 int Double(int x)
 {
-        return 2 * x;
+        return 3 * x;
 }
 void CppFunc(void)
 {
