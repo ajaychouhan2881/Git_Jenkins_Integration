@@ -3,7 +3,7 @@
 
 __stdcall void hello(const char *s)
 {
-        printf("Hello %s\n", s);
+        printf("Hi %s\n", s);
 }
 int Double(int x)
 {
